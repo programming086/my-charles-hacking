@@ -2,6 +2,7 @@ Hacking Charles Web Debugging Proxy
 
 # Works for
 
+- [4.1](https://github.com/programming086/my-charles-hacking/tree/4.1)
 - [4.0.2](https://github.com/programming086/my-charles-hacking/tree/4.0.2)
 - [4.0.1](https://github.com/programming086/my-charles-hacking/tree/4.0.1)
 - [3.11.6](https://github.com/programming086/my-charles-hacking/tree/3.11.6)
