@@ -3,13 +3,14 @@ DIR=charleshack
 
 mkdir $DIR
 cd $DIR
-cat >> qFep.java <<EOF
+cat >> psPJ.java <<EOF
 package com.xk72.charles;
-public final class qFep {
-    public static boolean gtOW() { return true; }
-    public static String SkgP() { return "Administrator"; }
-    public static String gtOW(String paramString1, String paramString2) { return null; }
+public final class psPJ {
+    public static boolean qIvM() { return true; }
+    public static void mLFE() {}
+    public static String tCiz() { return "Administrator"; }
+    public static String qIvM(String paramString1, String paramString2) { return null; }
 }
 EOF
-javac -encoding UTF-8 qFep.java -d . && jar -uvf $CHARLES com/xk72/charles/qFep.class
+javac -encoding UTF-8 psPJ.java -d . && jar -uvf $CHARLES com/xk72/charles/psPJ.class
 cd .. && rm -rf $DIR
