@@ -8,7 +8,7 @@
 
 # Official Download Link
 
-- [Windows 64 bit](https://www.charlesproxy.com/assets/release/4.1.3/charles-proxy-4.1.3-win64.msi)
-- [Windows 32 bit](https://www.charlesproxy.com/assets/release/4.1.3/charles-proxy-4.1.3-win32.msi)
-- [macOS](https://www.charlesproxy.com/assets/release/4.1.3/charles-proxy-4.1.3.dmg)
-- [Linux 64/32 bit](https://www.charlesproxy.com/assets/release/4.1.3/charles-proxy-4.1.3.tar.gz)
+- [Windows 64 bit](https://www.charlesproxy.com/assets/release/4.1.4/charles-proxy-4.1.4-win64.msi)
+- [Windows 32 bit](https://www.charlesproxy.com/assets/release/4.1.4/charles-proxy-4.1.4-win32.msi)
+- [macOS](https://www.charlesproxy.com/assets/release/4.1.4/charles-proxy-4.1.4.dmg)
+- [Linux 64/32 bit](https://www.charlesproxy.com/assets/release/4.1.4/charles-proxy-4.1.4.tar.gz)
