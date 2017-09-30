@@ -4,6 +4,7 @@ Hacking Charles Web Debugging Proxy
 
 ## 4.x
 
+- [4.2](https://github.com/programming086/my-charles-hacking/tree/4.2)
 - [4.1.4](https://github.com/programming086/my-charles-hacking/tree/4.1.4)
 - [4.1.3](https://github.com/programming086/my-charles-hacking/tree/4.1.3)
 - [4.1.2](https://github.com/programming086/my-charles-hacking/tree/4.1.2)
