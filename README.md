@@ -16,6 +16,7 @@ Hacking Charles Web Debugging Proxy
 
 ## 3.x
 
+- [3.12.1](https://github.com/programming086/my-charles-hacking/tree/3.12.1)
 - [3.12](https://github.com/programming086/my-charles-hacking/tree/3.12)
 - [3.11.7](https://github.com/programming086/my-charles-hacking/tree/3.11.7)
 - [3.11.6](https://github.com/programming086/my-charles-hacking/tree/3.11.6)
