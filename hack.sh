@@ -3,14 +3,14 @@ DIR=charleshack
 
 mkdir $DIR
 cd $DIR
-cat >> WNzU.java <<EOF
+cat >> oFTR.java <<EOF
 package com.xk72.charles;
-public final class WNzU {
-    public static boolean OjEP() { return true; }
-    public static void wfpb() {}
-    public static String DZZn() { return "Administrator"; }
-    public static String OjEP(String paramString1, String paramString2) { return null; }
+public final class oFTR {
+    public static boolean Yuaz() { return true; }
+    public static void knIQ() {}
+    public static String lktV() { return "Administrator"; }
+    public static String Yuaz(String paramString1, String paramString2) { return null; }
 }
 EOF
-javac -encoding UTF-8 WNzU.java -d . && jar -uvf $CHARLES com/xk72/charles/WNzU.class
+javac -encoding UTF-8 oFTR.java -d . && jar -uvf $CHARLES com/xk72/charles/oFTR.class
 cd .. && rm -rf $DIR
