@@ -3,14 +3,14 @@ DIR=charleshack
 
 mkdir $DIR
 cd $DIR
-cat >> Dheu.java <<EOF
+cat >> GPSz.java <<EOF
 package com.xk72.charles;
-public final class Dheu {
-    public static boolean PpPw() { return true; }
-    public static void wAkp() {}
-    public static String WPsu() { return "Administrator"; }
-    public static String PpPw(String paramString1, String paramString2) { return null; }
+public final class GPSz {
+    public static boolean Dgmx() { return true; }
+    public static void fxWP() {}
+    public static String Wmmw() { return "Administrator"; }
+    public static String Dgmx(String paramString1, String paramString2) { return null; }
 }
 EOF
-javac -encoding UTF-8 Dheu.java -d . && jar -uvf $CHARLES com/xk72/charles/Dheu.class
+javac -encoding UTF-8 GPSz.java -d . && jar -uvf $CHARLES com/xk72/charles/GPSz.class
 cd .. && rm -rf $DIR
