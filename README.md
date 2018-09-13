@@ -2,13 +2,17 @@
 
 # Usage
 
-- Download [charles.jar](charles.jar), replace the official `charles.jar`.
+- Download [charles.jar](charles.jar), replace the official `charles.jar`. Run command in Terminal (**For MacOS only**)
+
+```
+xattr -d com.apple.quarantine Charles.app/
+```
 - **Or (for MacOS only)**
 - Hack with the below script by yourself. [hack.sh](hack.sh)
 
 # Official Download Link
 
-- [Windows 64 bit](https://www.charlesproxy.com/assets/release/4.2.6/charles-proxy-4.2.6-win64.msi)
-- [Windows 32 bit](https://www.charlesproxy.com/assets/release/4.2.6/charles-proxy-4.2.6-win32.msi)
-- [macOS](https://www.charlesproxy.com/assets/release/4.2.6/charles-proxy-4.2.6.dmg)
-- [Linux 64/32 bit](https://www.charlesproxy.com/assets/release/4.2.6/charles-proxy-4.2.6.tar.gz)
+- [Windows 64 bit](https://www.charlesproxy.com/assets/release/4.2.7/charles-proxy-4.2.7-win64.msi)
+- [Windows 32 bit](https://www.charlesproxy.com/assets/release/4.2.7/charles-proxy-4.2.7-win32.msi)
+- [macOS](https://www.charlesproxy.com/assets/release/4.2.7/charles-proxy-4.2.7.dmg)
+- [Linux 64/32 bit](https://www.charlesproxy.com/assets/release/4.2.7/charles-proxy-4.2.7.tar.gz)

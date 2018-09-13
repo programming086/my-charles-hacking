@@ -3,14 +3,15 @@ DIR=charleshack
 
 mkdir $DIR
 cd $DIR
-cat >> GPSz.java <<EOF
+cat >> kKPk.java <<EOF
 package com.xk72.charles;
-public final class GPSz {
-    public static boolean Dgmx() { return true; }
-    public static void fxWP() {}
-    public static String Wmmw() { return "Administrator"; }
-    public static String Dgmx(String paramString1, String paramString2) { return null; }
+public final class kKPk {
+    public static boolean lcJx() { return true; }
+    public static void KcPF() {}
+    public static String JZlU() { return "Administrator"; }
+    public static String lcJx(String paramString1, String paramString2) { return null; }
 }
 EOF
-javac -encoding UTF-8 GPSz.java -d . && jar -uvf $CHARLES com/xk72/charles/GPSz.class
+javac -encoding UTF-8 kKPk.java -d . && jar -uvf $CHARLES com/xk72/charles/kKPk.class
 cd .. && rm -rf $DIR
+xattr -d com.apple.quarantine /Applications/Charles.app/
