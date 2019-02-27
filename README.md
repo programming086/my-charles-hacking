@@ -12,7 +12,7 @@ xattr -d com.apple.quarantine Charles.app/
 
 # Official Download Link
 
-- [Windows 64 bit](https://www.charlesproxy.com/assets/release/4.2.7/charles-proxy-4.2.7-win64.msi)
-- [Windows 32 bit](https://www.charlesproxy.com/assets/release/4.2.7/charles-proxy-4.2.7-win32.msi)
-- [macOS](https://www.charlesproxy.com/assets/release/4.2.7/charles-proxy-4.2.7.dmg)
-- [Linux 64/32 bit](https://www.charlesproxy.com/assets/release/4.2.7/charles-proxy-4.2.7.tar.gz)
+- [Windows 64 bit](https://www.charlesproxy.com/assets/release/4.2.8/charles-proxy-4.2.8-win64.msi)
+- [Windows 32 bit](https://www.charlesproxy.com/assets/release/4.2.8/charles-proxy-4.2.8-win32.msi)
+- [macOS](https://www.charlesproxy.com/assets/release/4.2.8/charles-proxy-4.2.8.dmg)
+- [Linux 64/32 bit](https://www.charlesproxy.com/assets/release/4.2.8/charles-proxy-4.2.8.tar.gz)
