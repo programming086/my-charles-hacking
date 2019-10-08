@@ -3,15 +3,15 @@ DIR=charleshack
 
 mkdir $DIR
 cd $DIR
-cat >> qHTb.java <<EOF
+cat >> cksj.java <<EOF
 package com.xk72.charles;
-public final class qHTb {
-    public static boolean DdNM() { return true; }
-    public static void twLa() {}
-    public static String gbef() { return "Administrator"; }
-    public static String DdNM(String paramString1, String paramString2) { return null; }
+public final class cksj {
+    public static boolean PRXy() { return true; }
+    public static void Jpub() {}
+    public static String aTFQ() { return "Administrator"; }
+    public static String PRXy(String paramString1, String paramString2) { return null; }
 }
 EOF
-javac -encoding UTF-8 qHTb.java -d . && jar -uvf $CHARLES com/xk72/charles/qHTb.class
+javac -encoding UTF-8 cksj.java -d . && jar -uvf $CHARLES com/xk72/charles/cksj.class
 cd .. && rm -rf $DIR
 xattr -d com.apple.quarantine /Applications/Charles.app/
