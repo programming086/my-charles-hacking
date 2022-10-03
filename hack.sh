@@ -5,8 +5,9 @@ mkdir $DIR
 cd $DIR
 cat >> p.java <<EOF
 package com.xk72.charles;
-public final class p {
+public class p {
     public static final String a = "Thanks for looking at the source. Please register Charles if you use it.";
+    public p() {}
     public p(String paramString1, String paramString2) {}
     public static void a(p paramp) {}
     public static boolean a() { return true; }
