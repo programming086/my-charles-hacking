@@ -3,17 +3,17 @@ DIR=charleshack
 
 mkdir $DIR
 cd $DIR
-cat >> eEjK.java <<EOF
+cat >> BSKm.java <<EOF
 package com.xk72.charles;
-public final class eEjK {
-    public eEjK() {}
-    public static boolean wHZk() { return true; }
-    public static void sZNF() {}
-    public static String zINA() { return "Administrator"; }
-    public static String wHZk(String paramString1, String paramString2) { return null; }
+public final class BSKm {
+    public BSKm() {}
+    public static boolean EuUz() { return true; }
+    public static void LmLY() {}
+    public static String scMU() { return "Administrator"; }
+    public static String EuUz(String paramString1, String paramString2) { return null; }
 }
 EOF
-javac -encoding UTF-8 eEjK.java -d . && jar -uvf $CHARLES com/xk72/charles/eEjK.class
+javac -encoding UTF-8 BSKm.java -d . && jar -uvf $CHARLES com/xk72/charles/BSKm.class
 cd .. && rm -rf $DIR
 xattr -d com.apple.quarantine /Applications/Charles.app/
 xattr -d com.apple.provenance /Applications/Charles.app/
