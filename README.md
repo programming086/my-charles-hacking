@@ -13,9 +13,9 @@ xattr -d com.apple.provenance Charles.app/
 
 # Official Download Link
 
-- [Windows 64 bit](https://www.charlesproxy.com/assets/release/5.0/charles-proxy-5.0b8-win64.msi)
-- [Windows 32 bit](https://www.charlesproxy.com/assets/release/5.0/charles-proxy-5.0b8-win32.msi)
-- [macOS](https://www.charlesproxy.com/assets/release/5.0/charles-proxy-5.0b8.dmg)
+- [Windows 64 bit](https://www.charlesproxy.com/assets/release/5.0/charles-proxy-5.0b9-win64.msi)
+- [Windows 32 bit](https://www.charlesproxy.com/assets/release/5.0/charles-proxy-5.0b9-win32.msi)
+- [macOS](https://www.charlesproxy.com/assets/release/5.0/charles-proxy-5.0b9.dmg)
 Supports Apple Silicon and Intel.
 Compatible with macOS 10.7 — 13.
-- [Linux 64/32 bit](https://www.charlesproxy.com/assets/release/5.0/charles-proxy-5.0b8.tar.gz)
+- [Linux 64/32 bit](https://www.charlesproxy.com/assets/release/5.0/charles-proxy-5.0b9.tar.gz)
